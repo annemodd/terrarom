@@ -1,0 +1,4 @@
+workflow Terraform
+{
+    terraform plan
+}
